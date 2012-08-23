@@ -15,13 +15,13 @@ The easiest way to install all libraries is through the bundler tool
 
 ##Update config.yml
 set 
-	* staging_dir: this is the output directory 
-	* log_dir: all logging will end up here 
-	* dspace: 
-		- host: the url to the OAI provider
-		- urn: what you would like the ID prefix to be
-	* sfx:
-		- rsi: url to rsi.cgi to check if record has full text
+* staging_dir: this is the output directory 
+* log_dir: all logging will end up here 
+* dspace: 
+	- host: the url to the OAI provider
+	- urn: what you would like the ID prefix to be
+* sfx:
+	- rsi: url to rsi.cgi to check if record has full text
 
 `
 --- 
