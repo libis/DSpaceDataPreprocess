@@ -23,16 +23,15 @@ set
 * sfx:
 	- rsi: url to rsi.cgi to check if record has full text
 
-`
---- 
-:staging_dir: ./stage
-:log_dir: ./log
-:dspace: 
-  :host: https://lirias.kuleuven.be/oai/request
-  :urn: "oai:lirias.kuleuven.be:"
-:sfx: 
-  :rsi: http://librilinks.libis.be/kuleuven/cgi/core/rsi/rsi.cgi
-`
+
+`--- `
+`:staging_dir: ./stage`
+`:log_dir: ./log`
+`:dspace: `
+`  :host: https://lirias.kuleuven.be/oai/request`
+`  :urn: "oai:lirias.kuleuven.be:"`
+`:sfx: `
+`  :rsi: http://librilinks.libis.be/kuleuven/cgi/core/rsi/rsi.cgi`
 
 ##dspace_convert_file.rb
 Convert a single file.
