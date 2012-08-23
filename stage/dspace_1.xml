@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2012-08-23T09:34:31+02:00</responseDate>
+  <request>didl</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:lirias.kuleuven.be:123456789/319565</identifier>
+        <datestamp>2012-08-23T09:34:31+02:00</datestamp>
+      </header>
+      <metadata>             
+      <record id="123456789/319565">
+  <lbs_control>
+    <lbs_sourcerecordid>123456789/319565</lbs_sourcerecordid>
+    <lbs_sourceid>LIRIAS</lbs_sourceid>
+    <lbs_originalsourceid>LIRIAS</lbs_originalsourceid>
+    <lbs_sourceformat>MODS</lbs_sourceformat>
+    <lbs_sourcesystem>Other</lbs_sourcesystem>
+    <lbs_originaltype>IR</lbs_originaltype>
+  </lbs_control>
+  <lbs_display>
+    <lbs_type>text_resource</lbs_type>
+    <lbs_source>LIRIAS</lbs_source>
+    <lbs_title>Regulations, brokers and interlinkages: The institutional organization of wholesale markets in India</lbs_title>
+    <lbs_creator>Minten, Bart ; Vandeplas, Anneleen ; Swinnen, Jo</lbs_creator>
+    <lbs_contributor/>
+    <lbs_genre>text_resource</lbs_genre>
+    <lbs_publisher>K.U.Leuven LICOS (Leuven)</lbs_publisher>
+    <lbs_edition/>
+    <lbs_language>eng</lbs_language>
+    <lbs_description>&lt;br&gt;&lt;br&gt;Publication Status: published</lbs_description>
+    <lbs_ispartof>LICOS - Discussion paper series 288/2011: 2011</lbs_ispartof>
+    <lbs_ispartof> 2011</lbs_ispartof>
+    <lbs_ispartof> 2011</lbs_ispartof>
+  </lbs_display>
+  <lbs_links>
+    <lbs_linktorsrc>$$Uhttps://lirias.kuleuven.be/bitstream/123456789/319565/1/DP288.pdf$$DDocument freely available</lbs_linktorsrc>
+    <lbs_backlink>$$Uhttps://lirias.kuleuven.be/handle/123456789/319565$$Ebacklink_lirias</lbs_backlink>
+    <lbs_addlink>$$DMinten, Bart$$Uhttp://www.kuleuven.be/wieiswie/nl/person/u0011793</lbs_addlink>
+    <lbs_addlink>$$DVandeplas, Anneleen$$Uhttp://www.kuleuven.be/wieiswie/nl/person/u0047981</lbs_addlink>
+    <lbs_addlink>$$DSwinnen, Jo$$Uhttp://www.kuleuven.be/wieiswie/nl/person/u0015673</lbs_addlink>
+  </lbs_links>
+  <lbs_search>
+    <lbs_creatorcontrib>Minten, Bart</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Vandeplas, Anneleen</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Swinnen, Jo</lbs_creatorcontrib>
+    <lbs_title>Regulations, brokers and interlinkages: The institutional organization of wholesale markets in India</lbs_title>
+    <lbs_description>&lt;br&gt;&lt;br&gt;Publication Status: published</lbs_description>
+    <lbs_description>u0011793</lbs_description>
+    <lbs_description>u0047981</lbs_description>
+    <lbs_description>u0015673</lbs_description>
+    <lbs_rsrctype>text_resource</lbs_rsrctype>
+    <lbs_creationdate>2011</lbs_creationdate>
+    <lbs_status>published</lbs_status>
+  </lbs_search>
+  <lbs_facets>
+    <lbs_rsrctype>text_resource</lbs_rsrctype>
+    <lbs_language>eng</lbs_language>
+    <lbs_creationdate>2011</lbs_creationdate>
+    <lbs_creatorcontrib>Minten, Bart</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Vandeplas, Anneleen</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Swinnen, Jo</lbs_creatorcontrib>
+  </lbs_facets>
+  <lbs_sort>
+    <lbs_creationdate>2011</lbs_creationdate>
+  </lbs_sort>
+  <lbs_delivery>
+    <lbs_institution>KUL</lbs_institution>
+    <lbs_delcategory>Online Resource</lbs_delcategory>
+    <lbs_fulltext>no_fulltext</lbs_fulltext>
+  </lbs_delivery>
+  <lbs_addata>
+    <lbs_aulast>Minten</lbs_aulast>
+    <lbs_aufirst>Bart</lbs_aufirst>
+    <lbs_au>Minten, Bart</lbs_au>
+    <lbs_genre>text_resource</lbs_genre>
+    <lbs_date>2011</lbs_date>
+  </lbs_addata>
+</record></metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

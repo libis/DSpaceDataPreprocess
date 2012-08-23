@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2012-08-23T09:34:32+02:00</responseDate>
+  <request>didl</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:lirias.kuleuven.be:123456789/317977</identifier>
+        <datestamp>2012-08-23T09:34:32+02:00</datestamp>
+      </header>
+      <metadata>             
+      <record id="123456789/317977">
+  <lbs_control>
+    <lbs_sourcerecordid>123456789/317977</lbs_sourcerecordid>
+    <lbs_sourceid>LIRIAS</lbs_sourceid>
+    <lbs_originalsourceid>LIRIAS</lbs_originalsourceid>
+    <lbs_sourceformat>MODS</lbs_sourceformat>
+    <lbs_sourcesystem>Other</lbs_sourcesystem>
+    <lbs_originaltype>IBe</lbs_originaltype>
+  </lbs_control>
+  <lbs_display>
+    <lbs_type>book</lbs_type>
+    <lbs_source>LIRIAS</lbs_source>
+    <lbs_title>Les Formes platoniciennes dans l'Antiquité tardive</lbs_title>
+    <lbs_creator/>
+    <lbs_contributor>d'Hoine, Pieter (Editor) ; Michalewski, Alexandra (Editor)</lbs_contributor>
+    <lbs_genre>book</lbs_genre>
+    <lbs_subject>Forms</lbs_subject>
+    <lbs_subject>Platonism</lbs_subject>
+    <lbs_publisher>Editions Les Belles Lettres (Paris)</lbs_publisher>
+    <lbs_edition/>
+    <lbs_language>fre</lbs_language>
+    <lbs_format>240 pages</lbs_format>
+    <lbs_description>&lt;br&gt;&lt;br&gt;Publication Status: published</lbs_description>
+    <lbs_identifier>$$CISBN:$$VURN:ISBN:978-2-251-44438-3</lbs_identifier>
+    <lbs_ispartof>Études platoniciennes: 2011, Volume: 8</lbs_ispartof>
+    <lbs_ispartof> 2011</lbs_ispartof>
+    <lbs_ispartof> 2011</lbs_ispartof>
+  </lbs_display>
+  <lbs_links>
+    <lbs_backlink>$$Uhttps://lirias.kuleuven.be/handle/123456789/317977$$Ebacklink_lirias</lbs_backlink>
+    <lbs_addlink>$$Dd'Hoine, Pieter$$Uhttp://www.kuleuven.be/wieiswie/nl/person/u0041615</lbs_addlink>
+    <lbs_addlink>$$DFind print copy$$TISBN_SEARCH</lbs_addlink>
+  </lbs_links>
+  <lbs_search>
+    <lbs_creatorcontrib>d'Hoine, Pieter</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Michalewski, Alexandra</lbs_creatorcontrib>
+    <lbs_title>Les Formes platoniciennes dans l'Antiquité tardive</lbs_title>
+    <lbs_description>&lt;br&gt;&lt;br&gt;Publication Status: published</lbs_description>
+    <lbs_description>u0041615</lbs_description>
+    <lbs_subject>Forms</lbs_subject>
+    <lbs_subject>Platonism</lbs_subject>
+    <lbs_rsrctype>book</lbs_rsrctype>
+    <lbs_creationdate>2011</lbs_creationdate>
+    <lbs_isbn>URN:ISBN:978-2-251-44438-3</lbs_isbn>
+    <lbs_isbn>9782251444383</lbs_isbn>
+    <lbs_isbn>2251444386</lbs_isbn>
+    <lbs_isbn>2-251-44438-6</lbs_isbn>
+    <lbs_status>published</lbs_status>
+  </lbs_search>
+  <lbs_facets>
+    <lbs_rsrctype>book</lbs_rsrctype>
+    <lbs_language>fre</lbs_language>
+    <lbs_creationdate>2011</lbs_creationdate>
+    <lbs_creatorcontrib>d'Hoine, Pieter</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Michalewski, Alexandra</lbs_creatorcontrib>
+    <lbs_international_publications>international_publication</lbs_international_publications>
+    <lbs_topic>Forms</lbs_topic>
+    <lbs_topic>Platonism</lbs_topic>
+  </lbs_facets>
+  <lbs_sort>
+    <lbs_creationdate>2011</lbs_creationdate>
+  </lbs_sort>
+  <lbs_delivery>
+    <lbs_institution>KUL</lbs_institution>
+    <lbs_delcategory>Remote Search Resource</lbs_delcategory>
+    <lbs_fulltext>no_fulltext</lbs_fulltext>
+  </lbs_delivery>
+  <lbs_addata>
+    <lbs_isbn>URN:ISBN:978-2-251-44438-3</lbs_isbn>
+    <lbs_btitle>Les Formes platoniciennes dans l'Antiquité tardive</lbs_btitle>
+    <lbs_genre>book</lbs_genre>
+    <lbs_date>2011</lbs_date>
+  </lbs_addata>
+</record></metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

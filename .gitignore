@@ -11,6 +11,11 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+data/*
+stage/*
+*.log
+*.xml
+Gemfile.lock
 
 # YARD artifacts
 .yardoc

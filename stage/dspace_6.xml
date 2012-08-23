@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2012-08-23T09:34:33+02:00</responseDate>
+  <request>didl</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:lirias.kuleuven.be:123456789/338385</identifier>
+        <datestamp>2012-08-23T09:34:33+02:00</datestamp>
+      </header>
+      <metadata>             
+      <record id="123456789/338385">
+  <lbs_control>
+    <lbs_sourcerecordid>123456789/338385</lbs_sourcerecordid>
+    <lbs_sourceid>LIRIAS</lbs_sourceid>
+    <lbs_originalsourceid>LIRIAS</lbs_originalsourceid>
+    <lbs_sourceformat>MODS</lbs_sourceformat>
+    <lbs_sourcesystem>Other</lbs_sourcesystem>
+    <lbs_originaltype>IBa</lbs_originaltype>
+  </lbs_control>
+  <lbs_display>
+    <lbs_type>book</lbs_type>
+    <lbs_source>LIRIAS</lbs_source>
+    <lbs_title>Wetboek boekhoud- en jaarrekeningrecht - januari 2011</lbs_title>
+    <lbs_creator>Maes, Jean-Pierre ; Stempnierwsky, Yvan ; Van Hulle, Karel</lbs_creator>
+    <lbs_contributor/>
+    <lbs_genre>book</lbs_genre>
+    <lbs_subject>wetboek</lbs_subject>
+    <lbs_subject>boekhoudrecht</lbs_subject>
+    <lbs_subject>jaarrekeningrecht</lbs_subject>
+    <lbs_publisher>Mijn Wetboek (Herentals)</lbs_publisher>
+    <lbs_edition>2011</lbs_edition>
+    <lbs_language>dut</lbs_language>
+    <lbs_format>310 pages</lbs_format>
+    <lbs_description>&lt;br&gt;&lt;br&gt;Publication Status: published</lbs_description>
+    <lbs_identifier>$$CISBN:$$VURN:ISBN:978-9-4603-5093-1</lbs_identifier>
+    <lbs_ispartof>Wetboek: 2011, Volume: 2011</lbs_ispartof>
+    <lbs_ispartof> 2011</lbs_ispartof>
+  </lbs_display>
+  <lbs_links>
+    <lbs_backlink>$$Uhttps://lirias.kuleuven.be/handle/123456789/338385$$Ebacklink_lirias</lbs_backlink>
+    <lbs_addlink>$$DMaes, Jean-Pierre$$Uhttp://www.kuleuven.be/wieiswie/nl/person/u0051721</lbs_addlink>
+    <lbs_addlink>$$DVan Hulle, Karel$$Uhttp://www.kuleuven.be/wieiswie/nl/person/u0013303</lbs_addlink>
+    <lbs_addlink>$$DFind print copy$$TISBN_SEARCH</lbs_addlink>
+  </lbs_links>
+  <lbs_search>
+    <lbs_creatorcontrib>Maes, Jean-Pierre</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Stempnierwsky, Yvan</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Van Hulle, Karel</lbs_creatorcontrib>
+    <lbs_title>Wetboek boekhoud- en jaarrekeningrecht - januari 2011</lbs_title>
+    <lbs_description>&lt;br&gt;&lt;br&gt;Publication Status: published</lbs_description>
+    <lbs_description>u0051721</lbs_description>
+    <lbs_description>u0013303</lbs_description>
+    <lbs_subject>wetboek</lbs_subject>
+    <lbs_subject>boekhoudrecht</lbs_subject>
+    <lbs_subject>jaarrekeningrecht</lbs_subject>
+    <lbs_rsrctype>book</lbs_rsrctype>
+    <lbs_creationdate>2011</lbs_creationdate>
+    <lbs_isbn>URN:ISBN:978-9-4603-5093-1</lbs_isbn>
+    <lbs_isbn>9789460350931</lbs_isbn>
+    <lbs_isbn>9460350933</lbs_isbn>
+    <lbs_status>published</lbs_status>
+  </lbs_search>
+  <lbs_facets>
+    <lbs_rsrctype>book</lbs_rsrctype>
+    <lbs_language>dut</lbs_language>
+    <lbs_creationdate>2011</lbs_creationdate>
+    <lbs_creatorcontrib>Maes, Jean-Pierre</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Stempnierwsky, Yvan</lbs_creatorcontrib>
+    <lbs_creatorcontrib>Van Hulle, Karel</lbs_creatorcontrib>
+    <lbs_international_publications>international_publication</lbs_international_publications>
+    <lbs_topic>wetboek</lbs_topic>
+    <lbs_topic>boekhoudrecht</lbs_topic>
+    <lbs_topic>jaarrekeningrecht</lbs_topic>
+  </lbs_facets>
+  <lbs_sort>
+    <lbs_creationdate>2011</lbs_creationdate>
+  </lbs_sort>
+  <lbs_delivery>
+    <lbs_institution>KUL</lbs_institution>
+    <lbs_delcategory>Remote Search Resource</lbs_delcategory>
+    <lbs_fulltext>no_fulltext</lbs_fulltext>
+  </lbs_delivery>
+  <lbs_addata>
+    <lbs_aulast>Maes</lbs_aulast>
+    <lbs_aufirst>Jean-Pierre</lbs_aufirst>
+    <lbs_au>Maes, Jean-Pierre</lbs_au>
+    <lbs_isbn>URN:ISBN:978-9-4603-5093-1</lbs_isbn>
+    <lbs_btitle>Wetboek boekhoud- en jaarrekeningrecht - januari 2011</lbs_btitle>
+    <lbs_genre>book</lbs_genre>
+    <lbs_date>2011</lbs_date>
+  </lbs_addata>
+</record></metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
