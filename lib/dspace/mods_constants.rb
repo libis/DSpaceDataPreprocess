@@ -1,3 +1,13 @@
+# #################################################################################
+#
+# (c) 2012 LIBIS/KU Leuven
+# http://www.libis.be, http://www.kuleuven.be
+#
+# mehmet (dot) celik (at) libis (dot)be
+#
+# The complete project is licensed under GPLv3
+# (http://www.gnu.org/licenses/gpl-3.0.html)
+#
 module Constants
 
   MAP_EU_REPO = {
